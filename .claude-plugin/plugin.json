@@ -1,0 +1,8 @@
+{
+  "name": "spec-driven-dev-plugin",
+  "description": "A plugin to assist with spec-driven development by generating code based on specifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Less"
+  }
+}
