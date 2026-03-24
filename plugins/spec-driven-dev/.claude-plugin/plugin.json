@@ -1,0 +1,8 @@
+{
+  "name": "spec-driven-dev",
+  "description": "A structured workflow for going from idea to implementation — brainstorm, spec, plan, and build step by step.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Less"
+  }
+}

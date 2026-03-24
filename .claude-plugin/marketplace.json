@@ -1,0 +1,22 @@
+{
+  "name": "claude-less-market",
+  "owner": {
+    "name": "Less"
+  },
+  "metadata": {
+    "description": "A marketplace of Claude Code plugins by Less"
+  },
+  "source": {
+    "source": "github",
+    "repo": "arturless/claude-less-market"
+  },
+  "plugins": [
+    {
+      "name": "spec-driven-dev",
+      "description": "A structured workflow for going from idea to implementation — brainstorm, spec, plan, and build step by step.",
+      "version": "1.0.0",
+      "category": "workflow",
+      "tags": ["ideation", "spec", "planning", "implementation"]
+    }
+  ]
+}
