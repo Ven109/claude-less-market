@@ -13,7 +13,7 @@ A marketplace of Claude Code plugins.
 Add the marketplace and install plugins:
 
 ```shell
-/plugin marketplace add arturless/claude-less-market
+/plugin marketplace add Ven109/claude-less-market
 /plugin install spec-driven-dev@claude-less-market
 ```
 

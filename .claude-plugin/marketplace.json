@@ -8,11 +8,12 @@
   },
   "source": {
     "source": "github",
-    "repo": "arturless/claude-less-market"
+    "repo": "Ven109/claude-less-market"
   },
   "plugins": [
     {
       "name": "spec-driven-dev",
+      "source": "./plugins/spec-driven-dev",
       "description": "A structured workflow for going from idea to implementation — brainstorm, spec, plan, and build step by step.",
       "version": "1.0.0",
       "category": "workflow",
